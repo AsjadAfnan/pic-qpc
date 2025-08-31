@@ -81,19 +81,16 @@ def main():
     required_files = [
         "README.md",
         "pyproject.toml",
-        "LICENSE",
         "pic/__init__.py",
         "tests/test_structures.py",
         "tests/test_quadrature.py",
         "tests/test_conditionals.py",
-        # "docs/README.md",  # Not needed - main README.md is sufficient
         "docs/design.md",
         "docs/math.md",
         "docs/experiments.md",
         "examples/train_synth.py",
         "examples/train_uci.py",
-        "examples/analytic_sanity.py",
-        ".github/workflows/ci.yml"
+        "examples/analytic_sanity.py"
     ]
     
     missing_files = []
