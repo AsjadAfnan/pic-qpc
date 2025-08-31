@@ -2,7 +2,7 @@
 
 **Programming Exam Submission**  
 **Student: Asjad Afnan**  
-**Course: Knowledge Representation and Acquisition  **
+**Course: Knowledge Representation and Acquisition**
 
 ## Overview
 
