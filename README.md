@@ -2,7 +2,7 @@
 
 **Programming Exam Submission**  
 **Student: Asjad Afnan**  
-**Course: Advanced Machine Learning**
+**Course: Knowledge Representation and Acquisition  **
 
 ## Overview
 
